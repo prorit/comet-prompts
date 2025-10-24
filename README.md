@@ -1,6 +1,6 @@
 # 🚀 **Advanced Guide to Perplexity Comet Browser AI** 🌐  
 
-![Comet](banner.png)
+![Comet](banner.jpg)
 
 Perplexity Comet is a powerful AI browser assistant designed to fundamentally change how you interact with the internet. It goes beyond simple search by acting as a context-aware research partner, enhancing your browsing experience by providing instant, insightful answers, summaries, and analyses directly on your current page. This guide provides comprehensive instructions on how to install and configure it, followed by an extensive list of over 50 unique and advanced use cases to maximize your productivity, creativity, and research capabilities.
 
