@@ -13,7 +13,7 @@ Perplexity Comet is a powerful AI browser assistant designed to fundamentally ch
 ## 🖥 How to Install & Set Up Comet on Windows  
 
 1. **Download**  
-   - Visit [Perplexity Official Website](https://shorturl.at/jq5OF) and click **Download Comet (Windows 10 or later)**.  
+   - Visit [Perplexity Official Website](https://pplx.ai/ritesh-dff2) and click **Download Comet (Windows 10 or later)**.  
    - The `.exe` installer will start downloading automatically.  
 
 2. **Install**  
